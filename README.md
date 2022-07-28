@@ -1,6 +1,11 @@
 # webpage design to Control robot 
 -can modification
+
 -Designed to support smartphones
+
+
+
+
 ![image](https://user-images.githubusercontent.com/107868423/181578862-433c9092-555f-47f3-8f2c-d9cf010da032.png)
 
 
